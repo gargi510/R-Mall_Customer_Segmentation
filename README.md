@@ -20,3 +20,9 @@ This project performs customer segmentation using **K-Means Clustering** on the 
 
 - Perform **exploratory data analysis (EDA)** to understand customer behavior.
 - Apply **K-Means clustering** to segment customers into
+
+---
+
+## 👩‍💻 Author
+
+Built by Gargi Mishra – www.linkedin.com/in/gargi510
