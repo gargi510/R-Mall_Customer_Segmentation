@@ -1,4 +1,4 @@
-# 🛍️ Mall Customer Segmentation using R  
+# 🛍️ Retail Insights: Mall Customer Segmentation using R
 
 ## 📌 Project Overview  
 
